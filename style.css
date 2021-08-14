@@ -1,7 +1,9 @@
-.page-1 page-img {
+.page1-ab {
   position: relative;
 }
-.page-1 p {
+.page-img {
   position: absolute;
-  top: 100px;
+}
+.page1-text {
+  position: absolute;
 }
